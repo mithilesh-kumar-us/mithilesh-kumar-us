@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 💻 Mithilesh Kumar U S
 
-##Software Engineer | Full-Stack Developer | Open-Source Contributor | AI/ML Enthusiast
+## Software Engineer | Full-Stack Developer | Open-Source Contributor | AI/ML Enthusiast
 
 Hi there! I'm Mithilesh 👋 — a passionate tech explorer who builds impactful AI tools, full-stack apps, and data-driven solutions. I love turning ideas into real-world applications using code, creativity, and coffee ☕.
 
