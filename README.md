@@ -38,7 +38,7 @@ Hi there! I'm Mithilesh 👋 — a passionate tech explorer who builds impactful
 
 - 📧 Email: [mithileshkum.us@gmail.com](mailto:mithileshkum.us@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/mithileshus](https://linkedin.com/in/mithileshus)
-- 🧠 Portfolio: [Coming Soon]
+- 🧠 Portfolio: [mithilesh-kumar-portfolio](https://mithilesh-kumar-portfolio.vercel.app/)
 
 ---
 
